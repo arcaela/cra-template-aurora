@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-aurora",
+  "version": "2.0.0",
+  "keywords": [
+    "react",
+    "template",
+    "create-react-app",
+    "cra-template-aurora"
+  ],
+  "description": "The aurora template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcaela/aurora.js.git",
+    "directory": "cra-template-aurora"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/arcaela/aurora.js/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "devDependencies": {
+    "copy-webpack-plugin": "^7.0.0"
+  }
+}
