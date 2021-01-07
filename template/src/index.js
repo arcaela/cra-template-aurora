@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import AuroraJS from 'aurora.js';
+import AuroraJS from '@arcaela/aurora';
 import './config/themes'
 import './config/routes'
 

@@ -1,9 +1,9 @@
 import React from 'react'
-import LogoIMG from '../resources/icon/512x512.png'
+import LogoIMG from './resources/icon/512x512.png'
 import { Button, Grid, makeStyles, Typography, } from '@material-ui/core';
-import FirebaseIMG from '../resources/sponsor/firebase.svg'
-import MaterialIMG from '../resources/sponsor/material.png'
-import ReactIMG from '../resources/sponsor/reactjs.png'
+import FirebaseIMG from './resources/sponsor/firebase.svg'
+import MaterialIMG from './resources/sponsor/material.png'
+import ReactIMG from './resources/sponsor/reactjs.png'
 import { Link } from 'react-router-dom';
 
 
