@@ -1,4 +1,4 @@
-import { Route } from '@arcaela/aurora';
+import { Route } from '@arcaela/aurora/hooks';
 import Welcome from '../views/welcome'
 /*
     El uso de Route está designado a la construcción de Vistas dinámicas
